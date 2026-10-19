@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://foto.dandelion1111.de/sitemap.xml
